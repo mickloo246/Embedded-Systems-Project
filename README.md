@@ -32,7 +32,7 @@ some of the things I have learned so far:
 - How to Wire a joystick that controls a single motor
 - How to control speed and direction of a DC motor using my benchmarked joystick
 
-I wanted to learn what goes into a drone as embedded systems is an area that I want to get more into. Also he mentioned that he is not on a strict timeline so I plan to chip away at learning other concepts into building this drone during the school year when I can squeeze it in. Here are the next few things I plan to do:
+I wanted to learn what goes into a drone as embedded systems is an area that I want to get more into. Also I am not on a strict timeline so I plan to chip away at learning other concepts into building this drone during the school year or on breaks. Really just when I can squeeze it in. Here are the next few things I plan to do:
 
 - Modify the JoyStickMotorControl code for 2 ESP32's that communicate joystick imput data to DC motor output data wirelessly.
   Real drones are wireless and learning how to code that into ESP32's would be a good next step
@@ -45,6 +45,5 @@ I wanted to learn what goes into a drone as embedded systems is an area that I w
 - Design and Print a custom frame that can carry the dji camera that we already have. I have access to a 3D printer I can
   use and I am familiar in SolidWorks which I can use for free through my university login
 
-Still a lot to do, but I am excited to see if there is overlap between any of my aerospace or electrical engineering classes
-I am taking this year. I think my Model-Based Systems Engineering project could prove useful. Also making these first 2 files and running the code and working through troubleshoots was really enjoyable. It seems simple but when I got my code to run and work just to turn on the DC motor at a constant speed, that was extremely satisfying. Excited to keep going on this project. 
+
 */
