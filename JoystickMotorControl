@@ -27,7 +27,7 @@ m = (y2 - y1) / (x2 - x1) = (0 - 255) / (512 - 1023)
 = 255 / 512
 y - 0 = (255 / 512) * (x - 512)
 y = 255 / 512 * x - 255
-*GEMINI Translated from IPAD calculation screenshot*
+
 
 
 WIRING
