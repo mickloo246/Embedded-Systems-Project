@@ -23,8 +23,7 @@ Hardware used
 	-	Analog joystick module
 	-	Breadboard, 9V battery, power supply module, jumper wires
 
-What I have learned so far
-My goal is to build a drone that can carry a dji camera to capture aerial pictures of stages and events that he runs. Here are
+My goal is to build a drone that can carry a dji camera to capture aerial pictures. Here are
 some of the things I have learned so far:
 - H-Bridge wiring
 - How to control speed and direction of a DC motor with code
